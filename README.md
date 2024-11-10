@@ -1,4 +1,4 @@
-<h1>Cyber Threat Intelligence: SOC Alert Analysis Part 1</h1>
+<h1>Cyber Threat Intelligence: SOC Alert Analysis</h1>
 
 
 <h2>Description</h2>
